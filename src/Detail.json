@@ -1,0 +1,25 @@
+{
+    "Companies":[
+        {
+         "id":"1",
+         "Name":"Wipro",
+         "Position":"Web developer",
+         "Picture":"wipro.jpg",
+         "Rating":"4"   
+        },
+        {
+            "id":"2",
+            "Name":"Oracle",
+            "Position":"Web developer",
+            "Picture":"oracle.jpg",
+            "Rating":"4.5"   
+           },
+           {
+            "id":"3",
+            "Name":"Amazon",
+            "Position":"Web developer",
+            "Picture":"amazon.jpg",
+            "Rating":"5"   
+           }
+    ]
+}

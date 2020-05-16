@@ -1,0 +1,14 @@
+
+.Search{
+    width: 30%;
+    margin: 0 auto;
+    padding:0px 10px;
+    border-radius: 13px;
+}
+.mybtn:hover{
+    transform: scale(1.1);
+    background-color:rgb(111, 111, 114);
+}
+.Header{
+    background-color:rgb(161, 161, 161);
+}

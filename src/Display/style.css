@@ -1,0 +1,22 @@
+.BoxSearch{
+    width: 70%;
+    margin: 0 auto;
+    padding:0px 10px;
+    border-radius: 13px;
+}
+
+.btn:hover{
+    transform: scale(1.1);
+    font-weight: 500;
+}
+.box{
+    padding:0px 10px;
+    border: 1px solid black;
+    
+}
+
+.bg{
+    
+    background-color: rgb(226, 226, 226);
+}
+

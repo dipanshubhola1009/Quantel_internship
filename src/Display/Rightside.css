@@ -1,0 +1,16 @@
+.Form{
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.BoxSearch1{
+    width: 90%;
+    margin: 0 auto;
+    padding:0px 10px;
+    border-radius: 13px;
+}
+span{
+    font-size: 1.5em;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
