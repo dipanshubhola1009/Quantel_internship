@@ -14,7 +14,7 @@ const Card = (props) => {
     <React.Fragment>
         <div className="col-lg-3 col-sm-6">
             <div className='myCard'>
-              <img src={require('./../picture/'+Data.Picture)} width="100%" height="180px"></img>
+              <img src={require('./../picture/'+Data.Picture)} className="Cpic" width="100%" height="180px"></img>
               <div className="Detail">
                  <div className="CName">
                      {Data.Name}

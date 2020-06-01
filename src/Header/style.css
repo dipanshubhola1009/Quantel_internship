@@ -12,3 +12,12 @@
 .Header{
     background-color:rgb(161, 161, 161);
 }
+.Brand-Btn{
+    padding: 10px 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 16px;
+}
+.Brand-Btn:hover {
+    transform: scale(1.1);
+    border: 2px solid rgba(69, 174, 235, 0.295);
+}

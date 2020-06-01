@@ -1,8 +1,3 @@
-<h1>Quantel_Internship</h1>
-
-<b>Download zip node.js file</b>
-https://nodejs.org/en/download/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

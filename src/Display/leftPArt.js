@@ -1,5 +1,6 @@
-import React from 'react'
+import React, { Component } from 'react'
 import Card from './Card'
+import Detail from './../Detail.json'
 
 
 /**
@@ -7,7 +8,11 @@ import Card from './Card'
 * @function LeftSide
 **/
 
-const LeftSide = (props) => {
+          /** to change the Companies change the data of Detail.json */
+
+class LeftSide extends Component {
+    
+  render(){
   return(
     <div className="box col-lg-9 col-sm-9">
             <nav className="navbar navbar-expend-lg bg">
@@ -28,18 +33,16 @@ const LeftSide = (props) => {
             </nav>
             
             <div className="row">
-                <Card id='1'/>
-                <Card id='2'/>
-                <Card id='3'/>
-                <Card id='1'/>
-                <Card id='3'/>
-                <Card id='1'/>
-                <Card id='2'/>
-                <Card id='3'/>
+               
+                {
+                     Detail.Companies.map(card => <Card key={card.id} id={card.id}></Card>)
+                }
+
+
             </div>
     </div>
    )
 
  }
-
+}
 export default LeftSide

@@ -20,6 +20,86 @@
             "Position":"Web developer",
             "Picture":"amazon.jpg",
             "Rating":"5"   
-           }
+           },
+           {
+            "id":"4",
+            "Name":"Oracle",
+            "Position":"Web developer",
+            "Picture":"oracle.jpg",
+            "Rating":"4.5"   
+           },
+           {
+            "id":"5",
+            "Name":"Amazon",
+            "Position":"Web developer",
+            "Picture":"amazon.jpg",
+            "Rating":"5"   
+           },
+           {
+            "id":"6",
+            "Name":"Oracle",
+            "Position":"Web developer",
+            "Picture":"oracle.jpg",
+            "Rating":"4.5"   
+           },
+           {
+            "id":"7",
+            "Name":"Amazon",
+            "Position":"Web developer",
+            "Picture":"amazon.jpg",
+            "Rating":"5"   
+           },
+           {
+            "id":"8",
+            "Name":"Oracle",
+            "Position":"Web developer",
+            "Picture":"oracle.jpg",
+            "Rating":"4.5"   
+           },
+           {
+            "id":"10",
+            "Name":"Amazon",
+            "Position":"Web developer",
+            "Picture":"amazon.jpg",
+            "Rating":"5"   
+           },
+           {
+            "id":"11",
+            "Name":"Wipro",
+            "Position":"Web developer",
+            "Picture":"wipro.jpg",
+            "Rating":"4"   
+           },
+           {
+               "id":"12",
+               "Name":"Oracle",
+               "Position":"Web developer",
+               "Picture":"oracle.jpg",
+               "Rating":"4.5"   
+              },
+              {
+                "id":"9",
+                "Name":"Wipro",
+                "Position":"Web developer",
+                "Picture":"wipro.jpg",
+                "Rating":"4"   
+               }
+    ],
+
+
+    "Trending":[
+        {
+            "id":"9",
+            "Name":"Ecell Event",
+            "Picture":"wipro.jpg",
+            "Description":" img elements must have an alt prop, either with meaningful text, or an empty string for decorative images"
+        },
+        {
+            "id":"10",
+            "Name":"HackerThon",
+            "Picture":"wipro.jpg",
+            "Description":" img elements must have an alt prop, either with meaningful text, or an empty string for decorative images"
+        }
     ]
+    
 }

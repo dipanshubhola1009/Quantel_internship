@@ -11,7 +11,7 @@ const Header = (props) => {
   return(
       <React.Fragment>
     <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
-        <a href="#" className="navbar-brand">Quantel</a>
+        <a href="#" className="navbar-brand Brand-Btn" >Quantel-Intership</a>
         <input className="Search" value="Search" ></input>
         <div className="SmallLogo">
             <img className="rounded-circle" src={require('./../picture/chatlogo.jpg')} width="40px" height="40px"></img>
